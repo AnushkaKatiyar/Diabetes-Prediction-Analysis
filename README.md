@@ -5,11 +5,11 @@
 
 📈 **Why It Matters**
 
-- **Rising Prevalence:* As of 2021, approximately 11.6% of the U.S. population, or 38.4 million people, are living with diabete. citeturn0search
+- **Rising Prevalence:* As of 2021, approximately 11.6% of the U.S. population, or 38.4 million people, are living with diabete.
 
-- **Undiagnosed Cases:* Notably, about 8.7 million adults remain undiagnosed, highlighting the need for effective prediction and screening tool. citeturn0search
+- **Undiagnosed Cases:* Notably, about 8.7 million adults remain undiagnosed, highlighting the need for effective prediction and screening tool.
 
-- **Global Impact:* Worldwide, the number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022, with prevalence increasing more rapidly in low- and middle-income countrie. citeturn0search
+- **Global Impact:* Worldwide, the number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022, with prevalence increasing more rapidly in low- and middle-income countrie.
 
 🛠️ **Project Goals**
 
